@@ -1,0 +1,7 @@
+We use IPFS versus github as a public repo , as OTR is built for offline use with IPFS baked in.
+
+OTA Mainnet IPFS CID
+
+bafkreidh54ze3x5wj3kduatqdlwqjir4jfehplgmidvkz2r3n7cgyi5qte
+
+

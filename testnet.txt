@@ -1,0 +1,3 @@
+We use IPFS versus github as a public repo , as OTR is built for offline use with IPFS baked in.
+
+OTR Testnet IPFS CID bafybeifbmaze7lierdlqo2qndjxjgydbxb7as2zgwbfbixrx4mzktjqkdi
