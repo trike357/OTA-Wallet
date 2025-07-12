@@ -6,3 +6,4 @@ We’re excited to announce the first public release of OTR, the native CLI and 
 
 We use IPFS versus github as a public repo , as OTR is hybrid built for onnline/ offline use with IPFS baked in.
 
+Contact us at Help@otawallet.com.
